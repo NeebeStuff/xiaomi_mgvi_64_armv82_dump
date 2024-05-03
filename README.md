@@ -1,0 +1,20 @@
+## missi_phone_global_only64-user 14 UP1A.230905.011 V816.0.8.0.UNLMIXM release-keys
+- Manufacturer: alps
+- Platform: common
+- Codename: mgvi_64_armv82
+- Brand: Xiaomi
+- Flavor: missi_phone_global_only64-user
+- Release Version: 14
+- Kernel Version: 6.1.25
+- Id: UP1A.230905.011
+- Incremental: V816.0.8.0.UNLMIXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a
+- A/B Device: true
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: Xiaomi/hal_mgvi_64_armv82_mt6897_global/mgvi_64_armv82:14/UP1A.230905.011/V816.0.8.0.UNLMIXM:user/release-keys
+- OTA version: 
+- Branch: missi_phone_global_only64-user-14-UP1A.230905.011-V816.0.8.0.UNLMIXM-release-keys
+- Repo: xiaomi_mgvi_64_armv82_dump
